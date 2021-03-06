@@ -1,4 +1,4 @@
-cranlist <- readLines(r_packages) 
+cranlist <- readLines("r_packages") 
 
 
 ## cran packages
