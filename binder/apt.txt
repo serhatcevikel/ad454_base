@@ -1,6 +1,5 @@
 default-jdk
 gdal-bin
-git
 imagemagick
 jags
 libcairo2-dev
@@ -9,7 +8,6 @@ libfontconfig1-dev
 libfreetype6-dev
 libgdal-dev
 libgeos-dev
-libgit2-dev
 libgl1-mesa-dev
 libglpk-dev
 libglu1-mesa-dev
