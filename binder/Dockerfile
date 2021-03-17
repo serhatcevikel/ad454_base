@@ -40,7 +40,8 @@ RUN apt update && \
 
 RUN \
     # install pip packages
-    pip3 install --no-cache \
+    #pip3 install --no-cache \
+    /srv/conda/condabin/conda install \
         bash_kernel \
         nbpresent \
         notebook \
