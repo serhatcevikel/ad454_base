@@ -1,5 +1,9 @@
     cranlist <- c(
-                  "countrycode"
+                  "countrycode",
+                  "dbplot",
+                  "dm",
+                  "RSQLite",
+                  "dtplyr"
     )
 
     ## cran packages
