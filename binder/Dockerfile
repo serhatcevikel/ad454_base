@@ -42,10 +42,10 @@ RUN \
     # install pip packages
     #pip3 install --no-cache \
     /srv/conda/condabin/conda install \
+        -n notebook \
         bash_kernel \
         nbpresent \
         notebook \
-        quilt==2.9.15 \
         RISE \
         sos \
         sos-notebook; \
