@@ -40,7 +40,9 @@ RUN apt update && \
 
 RUN \
     # install pip packages
-    #pip3 install --no-cache \
+    pip3 install --no-cache \
+        quilt==2.9.15; \
+    \
     /srv/conda/condabin/conda install \
         -n notebook \
         bash_kernel \

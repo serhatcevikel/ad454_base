@@ -1,9 +1,25 @@
     cranlist <- c(
-                  "countrycode",
-                  "dbplot",
-                  "dm",
-                  "RSQLite",
-                  "dtplyr"
+                "countrycode",
+                "dbplot",
+                "dm",
+                "RSQLite",
+                "dtplyr",
+                "sparklyr",
+                "mlflow",
+                "corrr",
+                "mlr3",
+                "RecordLinkage",
+                "dat",
+                "DTSg",
+                "DataExplorer",
+                "dataframeexplorer",
+                "dataPreparation",
+                "shinyML",
+                "textTools",
+                "modelplotr",
+                "mlr3verse",
+                "rsparkling",
+                "parallelly"
     )
 
     ## cran packages
